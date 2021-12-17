@@ -1,6 +1,6 @@
 <div align=center>
 
-<img alt="JL Guan" src="https://avatars.githubusercontent.com/u/31762417" width=250 />
+<img alt="JL Guan" src="https://avatars.githubusercontent.com/u/31762417" width=200 />
 
 # Hi, this is JL Guan :wave:
 
